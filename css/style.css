@@ -1,0 +1,64 @@
+
+*{
+   margin:0; 
+   padding:0;
+   box-sizing: border-box;
+}
+
+header{
+    padding: 2rem;
+    margin-bottom: 3rem;
+}
+
+
+body{
+   font-family:'Fredoka',sans-serif;
+}
+
+ .container{
+    margin:0 auto;
+    max-width:795px; 
+ }
+
+ .card{
+    float: left;
+ }
+
+.card{
+    height: 100px;
+    width: 200px;
+    background-color: black;
+    border: 3px solid;
+    border-color: yellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.titolo{
+   color: magenta;
+   text-align: center;
+}
+.paragrafo{
+    text-align: center;
+    margin-top: 2rem;
+}
