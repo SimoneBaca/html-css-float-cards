@@ -17,19 +17,16 @@ body{
 
  .container{
     margin:0 auto;
-    max-width:795px; 
+    max-width:1170px; 
  }
 
  .card{
-    float: left;
- }
-
-.card{
     height: 100px;
-    width: 200px;
+    width: 300px;
     background-color: black;
-    border: 3px solid;
-    border-color: yellow;
+    float: left;
+    margin-left: 50px;
+    margin-bottom: 50px;
 }
 
 
