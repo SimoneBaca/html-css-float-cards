@@ -12,7 +12,8 @@ header{
 
 
 body{
-   font-family:'Fredoka',sans-serif;
+   font-family:sans-serif;
+   font-size: 20px;
 }
 
  .container{
@@ -24,16 +25,38 @@ body{
     height: 100px;
     width: 300px;
     background-color: black;
-    float: left;
     margin-left: 50px;
     margin-bottom: 50px;
+    float: left;
+}  
+  .card img{
+    height: 100px;
+    float: left;;
+ }
+
+.nomi{
+    color: white;
+    font-size: 10px;
+   padding: 1rem;
+    text-align: center;
+    
 }
+    
+  .role{
+    color: white;
+    font-size:10px ;
+    text-align: center;
+   
 
-
-
-
-
-
+  } 
+.email{
+    color: blue;
+    font-size:10px;
+    padding:1rem;
+    text-align: center;
+    
+}
+   
 
 
 
@@ -56,6 +79,7 @@ body{
    text-align: center;
 }
 .paragrafo{
-    text-align: center;
+    
     margin-top: 2rem;
+    text-align: center;
 }
